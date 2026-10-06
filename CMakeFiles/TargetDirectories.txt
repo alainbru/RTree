@@ -1,0 +1,3 @@
+C:/Users/Alain Machaca Cahuan/Desktop/6TO SEMESTRE/ESTRUCTURAS DE DATOS AVANZADAS/Clases 6 Octrubre/build/CMakeFiles/AlgoritmoKDTRE.dir
+C:/Users/Alain Machaca Cahuan/Desktop/6TO SEMESTRE/ESTRUCTURAS DE DATOS AVANZADAS/Clases 6 Octrubre/build/CMakeFiles/edit_cache.dir
+C:/Users/Alain Machaca Cahuan/Desktop/6TO SEMESTRE/ESTRUCTURAS DE DATOS AVANZADAS/Clases 6 Octrubre/build/CMakeFiles/rebuild_cache.dir
